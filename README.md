@@ -1,12 +1,15 @@
-## Hi there 👋
+## Overview 👋
 - 🌱 I am currently an undergraduate student studying Computer Science.
 - ✨ My interests relies on the following:
   - Artificial Intelligence 
   - UX Design 
-- 🔭 All my personal projects are located on the repository tab.
+- 🔭 All my personal projects and blogs are located on the Repositories tab.
 
-## 🚀 Languages
-I am currently learning Java. 
+## 🚀 Skills
+### Languages
+- Java
+- JavaScript 
+- HTML
 
 ## 📫 Contact Me
 - Email: calvintruong@outlook.com
