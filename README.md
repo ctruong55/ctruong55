@@ -1,7 +1,15 @@
-### Hi there 👋
-- 🌱 I’m currently learning Computer Science 
-- 🔭 This is where all my personal projects are located
+## Hi there 👋
+- 🌱 I am currently an undergraduate student studying Computer Science.
+- ✨ My interests relies on the following:
+  - Artificial Intelligence 
+  - UX Design 
+- 🔭 All my personal projects are located on the repository tab.
 
+## 🚀 Languages
+I am currently learning Java. 
+
+## 📫 Contact Me
+- Email: calvintruong@outlook.com
 <!--
 **ctruong55/ctruong55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
