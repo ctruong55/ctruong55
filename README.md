@@ -8,7 +8,7 @@ TEMPLATE FOR MY PERSONAL GITHUB WEBSITE. THIS IS WHERE MY PORTFOLIO IS LOCATED.
 - **✨ My interests relies on the following:**
   - `Artificial Intelligence`
   - `UX Design`
-- **🔭 All my personal projects and blogs are located on the Repositories tab.**
+- **🔭 All my personal projects are located on the Repositories tab.**
 
 ## Latest Repositories
 <br>
