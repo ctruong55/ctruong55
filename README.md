@@ -12,10 +12,11 @@ TEMPLATE FOR MY PERSONAL GITHUB WEBSITE. THIS IS WHERE MY PORTFOLIO IS LOCATED.
 
 ## 🚀 Skills
 ### Languages
+![Python](https://img.shields.io/badge/Code-Python%20-lightgreen.svg?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/Code-Java%20-lightblue.svg?style=for-the-badge&logo=oracle)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript%20-gold.svg?style=for-the-badge&logo=javascript)
 ![HTML](https://img.shields.io/badge/Code-HTML%20-red.svg?style=for-the-badge&logo=html5)
-![Python](https://img.shields.io/badge/Code-Python%20-lightgreen.svg?style=for-the-badge&logo=python)
+
 
 ## 💼 Connect with me
 <div id="badges">
