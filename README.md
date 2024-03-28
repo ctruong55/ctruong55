@@ -5,21 +5,10 @@ TEMPLATE FOR MY PERSONAL GITHUB WEBSITE. THIS IS WHERE MY PORTFOLIO IS LOCATED.
 ![Unrelated image from page 177 of "Punch" (1841)](https://i.imgur.com/7TdqL1v.jpg)
 # HELLO THERE 👋
 - **🌱 I am currently an undergraduate student studying Computer Science.**
-- **✨ My interests relies on the following:**
+- **✨ My interests rely on the following:**
   - `Artificial Intelligence`
-  - `UX Design`
-- **🔭 All my personal projects are located on the Repositories tab.**
-
-## Latest Repositories
-<br>
-
-<!-- POST-LIST:START -->
-
-**To be posted. Stay tuned.** 
-
-<!-- POST-LIST:END -->
-
-<br>
+  - `Human-Computer Interaction`
+- **🔭 All my projects are located on the Repositories tab.**
 
 ## 🚀 Skills
 ### Languages
